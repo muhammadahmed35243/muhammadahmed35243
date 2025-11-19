@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Muhammad Ahmed
-- 👀 I’m interested in Development and Coding.
-- 🌱 I’m currently learning Cpp and Python
-- 💞️ I’m looking to collaborate on Cpp projects
 - 📫 muhammadahmed8775@gmail.com
 - 😄 electron.
 
